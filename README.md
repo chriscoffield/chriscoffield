@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chriscoffield
 - 👀 I’m interested in ... learning all I can in the field of software development.
-- 🌱 I’m currently learning ... Python, C, C#, C++, and mastering Javascript.
+- 🌱 I’m currently learning ... Python, C, C#, C++, and mastering HTML, CSS and Javascript.
 - 📫 How to reach me ... (864) 266-68524 or chriscoffield3588@icloud.com
 
 <!---
